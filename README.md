@@ -1,4 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dionysios Basdanis ==========================================================================================================================================  Software Engineer -----------------  I 'm a passionate software engineer with experience in C and Python. I enjoy crafting elegant solutions to complex problems and constantly seek opportunities to learn and grow in the field of web development.  * 🌍  I'm based in Berlin * ✉️  You can contact me at [dbasdanis97@gmail.com](mailto:dbasdanis97@gmail.com)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dionysios Basdanis ==========================================================================================================================================  
+Software Engineer 
+I 'm a passionate software engineer with experience in C and Python. I enjoy crafting elegant solutions to complex problems and constantly seek opportunities to learn and grow in the field of web development. 
+* 🌍  I'm based in Berlin 
+* ✉️  You can contact me at [dbasdanis97@gmail.com](mailto:dbasdanis97@gmail.com)
 
 <a href="https://www.github.com/dbasdanis" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/dbasdanis?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills  
