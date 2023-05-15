@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dionysios Basdanis ====================================================  
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dionysios Basdanis  
 -------- Software Engineer -------
 * I 'm a passionate software engineer with experience in C and Python. I enjoy crafting elegant solutions to complex problems and constantly seek opportunities to learn and grow in the field of web development. 
 * 🌍  I'm based in Berlin 
