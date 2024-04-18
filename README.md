@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dionysios Basdanis  
 
 -------- Software Engineer -------
-* I enjoy crafting elegant solutions to complex problems and constantly seek opportunities to learn and grow in the field of web development. 
+* I enjoy crafting elegant solutions to complex problems and constantly seek opportunities to learn and grow. 
 * 🌍  I'm based in Berlin 
 * ✉️  You can contact me at [dbasdanis97@gmail.com](mailto:dbasdanis97@gmail.com)
 
