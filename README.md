@@ -14,9 +14,3 @@ My name is Dionysios Basdanis and I am Software Engineer at DB Systel GmbH.
 ### Skills  
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,py,java,spring,gradle,grafana,idea,rabbitmq,kubernetes,docker,git,github,gitlab)](https://skillicons.dev)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbasdanis)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dbasdanis&count_private=true&show_icons=true" />
-</a>
