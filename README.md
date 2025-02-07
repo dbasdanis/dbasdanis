@@ -14,3 +14,5 @@ My name is Dionysios Basdanis and I am Software Engineer at DB Systel GmbH.
 ### Skills  
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,py,java,spring,gradle,grafana,idea,rabbitmq,kubernetes,docker,git,github,gitlab)](https://skillicons.dev)
+
+![My Programming Setup](https://github.com/dbasdanis/dbasdanis/blob/main/computer.webp?raw=true)
